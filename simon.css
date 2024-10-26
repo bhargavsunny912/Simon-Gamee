@@ -1,0 +1,9 @@
+h1,h2,h3{text-align: center;}
+        body{background-color:aliceblue;overflow-x: hidden;}
+        .box1{background-color: blue;}
+        .box2{background-color:blueviolet;}
+        .box3{background-color:brown;}
+        .box4{background-color:burlywood;}
+        .box{height: 200px;width: 350px;display: flex;flex-wrap: wrap;gap: 20px;margin: 50px auto;transform: translate(50px,50px);}
+        .b{height: 100px;width: 100px;border-radius: 10px;border: 2px solid black;}
+        .flash{background-color: white;}
